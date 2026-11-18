@@ -1,6 +1,6 @@
 # Deep Learning-Based Network Intrusion Detection System (NIDS)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zEamEc0oCMTCswm9muKsyisHK1FYujS2#scrollTo=SepVKIj2Sddx)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1or2Nkkds2ohYR3B0czAuIADhJE-vOBTV#scrollTo=8a2d20e0)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
