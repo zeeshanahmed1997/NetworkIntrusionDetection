@@ -7,12 +7,3 @@
 An end-to-end deep learning framework for automated network intrusion detection, evaluated on the benchmark **KDD Cup 99** dataset. This project implements systematic macro-class attack mapping, feature standardization, and an optimized deep neural network (DNN) classifier using TensorFlow/Keras and scikit-learn.
 
 ---
-
-## 📂 Repository Structure
-
-```text
-├── dataset/                  # Data directory (KDD Cup 99 CSV)
-├── notebooks/                # Executable Google Colab implementation
-├── docs/                     # Formal IEEE research report / thesis documentation
-├── README.md                 # Project documentation
-└── requirements.txt          # Python dependencies
